@@ -1,0 +1,32 @@
+bofy { 
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+html { 
+  font-size: 20px;
+  text-align: center;
+}
+.text-skyblue {
+  color: skyblue;
+}
+.text-pink {
+  color: rgb(255,192,203);
+}
+.line { 
+  border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+  h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+
+  }
+
+  #basic div { 
+  font-weight: bold;
+  }
